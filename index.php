@@ -37,8 +37,6 @@ if (is_dir($dir)){
   }
 }
 ?>
-
-<footer>Copyright<small>&copy;</small>2018 - Yogesh Gupta</footer>
 	</body>
 </html>
 
